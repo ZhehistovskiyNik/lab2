@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "62752abd0da1739cbc338703"
+  },
+  "name": "G2 Guitar",
+  "price": 500,
+  "quantity": 45,
+  "quality": 5,
+  "Vendor": "Yamaha",
+  "Category": "классическая гитара"
+},{
+  "_id": {
+    "$oid": "62752d5f0da1739cbc338705"
+  },
+  "name": "G2-4 Guitar",
+  "price": 300,
+  "quantity": 0,
+  "quality": 3,
+  "Vendor": "Takamine",
+  "Category": "акустическая гитара"
+},{
+  "_id": {
+    "$oid": "62752dd60da1739cbc338707"
+  },
+  "name": "T1 Rem Guitar",
+  "price": 700,
+  "quantity": 53,
+  "quality": 4,
+  "Vendor": "Gibson",
+  "Category": "укулеле"
+},{
+  "_id": {
+    "$oid": "62752e0e0da1739cbc338709"
+  },
+  "name": "T1 Relit Guitar",
+  "price": 1500,
+  "quantity": 0,
+  "quality": 4,
+  "Vendor": "Yamaha",
+  "Category": "электрогитара"
+},{
+  "_id": {
+    "$oid": "62752e720da1739cbc33870a"
+  },
+  "name": "Arama Guitar 5g",
+  "price": 1444,
+  "quantity": 34,
+  "quality": 5,
+  "Vendor": "Fender",
+  "Category": "электрогитара"
+}]
